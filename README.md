@@ -30,31 +30,47 @@ BookNook is a feature-rich, responsive personal library management web applicati
 🛠️ Technologies Used
 
 ->HTML5 – structure
+
 ->CSS3 – responsive layout & modern UI
+
 ->JavaScript (Vanilla JS) – app logic & interactivity
+
 ->Font Awesome – icons
 
 📂 Project Structure
 BookNook/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 ▶️ How to Run the Project
 
 =>Clone the repository
     https://soundariyaleela.github.io/Book-Library/
+    
 =>Open index.html in any modern browser
+
 =>Start adding books to your personal library
+
 =>No installation or backend required – fully frontend-based.
 
 🌟 Future Enhancements
+
 *Backend authentication
+
 *Cloud database integration
+
 *User profiles & avatars
+
 *Book API integration (Google Books / Open Library)
+
 *Progressive Web App (PWA) support
 
 👩‍💻 Author
