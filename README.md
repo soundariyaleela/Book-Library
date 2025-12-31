@@ -75,8 +75,7 @@ BookNook/
 
 👩‍💻 Author
 
-Soundariya Leela
-Web Development Intern | Frontend Developer
+Soundariya Leela M
 
 📄 License
 
